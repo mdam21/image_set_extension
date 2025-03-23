@@ -1,0 +1,143 @@
+[
+	
+    {
+        "image": "Accordion_10.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 500.87,
+                    "y": 513.11,
+                    "width": 820.94,
+                    "height": 753.41
+                }
+            }
+        ]
+    },
+    {
+        "image": "Accordion_9.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 595.09,
+                    "y": 724.87,
+                    "width": 1009.18,
+                    "height": 813.75
+                }
+            }
+        ]
+    },
+    {
+        "image": "Accordion_8.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 770.66,
+                    "y": 511.51,
+                    "width": 1100.52,
+                    "height": 842.21
+                }
+            }
+        ]
+    },
+    {
+        "image": "Accordion_7.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 803.78,
+                    "y": 845.84,
+                    "width": 1559.56,
+                    "height": 1163.68
+                }
+            }
+        ]
+    },
+    {
+        "image": "Accordion_6.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 630.59,
+                    "y": 679.84,
+                    "width": 890.18,
+                    "height": 643.67
+                }
+            }
+        ]
+    },
+    {
+        "image": "Accordion_5.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 643.86,
+                    "y": 449.71,
+                    "width": 1034.92,
+                    "height": 894.62
+                }
+            }
+        ]
+    },
+    {
+        "image": "Accordion_4.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 682.89,
+                    "y": 341.92,
+                    "width": 976.64,
+                    "height": 514.7
+                }
+            }
+        ]
+    },
+    {
+        "image": "Accordion_3.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 656.07,
+                    "y": 771.93,
+                    "width": 787.34,
+                    "height": 543.05
+                }
+            }
+        ]
+    },
+    {
+        "image": "Accordion_2.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 698.76,
+                    "y": 421.38,
+                    "width": 576.95,
+                    "height": 536.47
+                }
+            }
+        ]
+    },
+    {
+        "image": "Accordion_1.jpg",
+        "annotations": [
+            {
+                "label": "Accordion",
+                "coordinates": {
+                    "x": 568.18,
+                    "y": 322.2,
+                    "width": 895.79,
+                    "height": 575.27
+                }
+            }
+        ]
+    }
+]
