@@ -1,0 +1,19 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Configuraciones
+.vscode/
+.idea/
+.DS_Store
+
+# Archivos de entorno
+.env
+*.env
